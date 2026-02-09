@@ -24,14 +24,14 @@ Atualmente lidero a arquitetura e execução dos seguintes projetos estratégico
 
 ### 📊 Performance Técnica
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=erikbolzan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikbolzan&layout=compact&theme=dark&hide_progress=false" alt="Linguagens mais usadas" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=erikbolzan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikbolzan&layout=compact&theme=dark&hide_progress=false" alt="Linguagens mais usadas" height="180">
 </p>
 
 ---
 
 ### 📫 Contato
-* **Empresa:** [TG Elétrica](https://tgeletrica.com.br)
+* **Empresa:** <a href="https://tgeletrica.com.br" target="_blank">TG Elétrica</a>
 * **Local:** Brasil 🇧🇷
 
 *"Liderando a inovação através de código limpo e design estratégico."*
