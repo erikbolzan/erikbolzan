@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Erik Bolzan 👋
 
-<!--
-**erikbolzan/erikbolzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Lead | Diretor Executivo | Especialista em Arquitetura de Sistemas
 
-Here are some ideas to get you started:
+Sou o Diretor Executivo da **TG Elétrica**, liderando a estratégia tecnológica e o design de soluções escaláveis. Como Tech Lead, foco na orquestração de sistemas que unem engenharia e alta tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏗️ Projetos em Desenvolvimento (Stealth Mode)
+Atualmente lidero a arquitetura e execução dos seguintes projetos estratégicos:
+
+* **TG Ultra (SaaS):** Ecossistema completo de gestão e performance para o setor de energia.
+* **TG Desk:** Sistema avançado de atendimento e CRM focado em experiência do cliente.
+* **TG Digital Web:** Site One Page institucional com foco em animações de alta performance e design tecnológico.
+
+---
+
+### 🛠️ Minha Stack & Expertise
+* **Direção Técnica:** Arquitetura Full Stack (Python/FastAPI + React/Next.js).
+* **Engenharia:** Projetos elétricos e automação solar.
+* **Design & UX:** Estratégia digital e interfaces modernas.
+
+---
+
+### 📊 Performance Técnica
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=erikbolzan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikbolzan&layout=compact&theme=dark&hide_progress=false" alt="Linguagens mais usadas" height="150">
+</p>
+
+---
+
+### 📫 Contato
+* **Empresa:** [TG Elétrica](https://tgeletrica.com.br)
+* **Local:** Brasil 🇧🇷
+
+*"Liderando a inovação através de código limpo e design estratégico."*
