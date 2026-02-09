@@ -1,37 +1,48 @@
-# Olá, eu sou o Erik Bolzan 👋
+Erik Bolzan
+Diretor Executivo | Tech Lead | Especialista em Arquitetura de Sistemas
+Diretor Executivo da TG Elétrica, liderando a transformação digital do setor de engenharia elétrica através de soluções tecnológicas escaláveis. Como Tech Lead, atuo na orquestração de sistemas complexos que unem engenharia de precisão e desenvolvimento de software de alto desempenho.
 
-### Tech Lead | Diretor Executivo | Especialista em Arquitetura de Sistemas
-
-Sou o Diretor Executivo da **TG Elétrica**, liderando a estratégia tecnológica e o design de soluções escaláveis. Como Tech Lead, foco na orquestração de sistemas que unem engenharia e alta tecnologia.
-
----
-
-### 🏗️ Projetos em Desenvolvimento (Stealth Mode)
+PROJETOS EM DESENVOLVIMENTO
 Atualmente lidero a arquitetura e execução dos seguintes projetos estratégicos:
+- TG Ultra (SaaS Platform)
+- Ecossistema completo de gestão para o setor de energia elétrica.
 
-* **TG Ultra (SaaS):** Ecossistema completo de gestão e performance para o setor de energia.
-* **TG Desk:** Sistema avançado de atendimento e CRM focado em experiência do cliente.
-* **TG Digital Web:** Site One Page institucional com foco em animações de alta performance e design tecnológico.
+Arquitetura: FastAPI, Next.js 15, PostgreSQL, Redis, Docker
+- Event-driven architecture com Redis Streams para processamento assíncrono
+- Módulos: Gestão de Projetos Elétricos, CRM Integrado, Service Desk com IA
 
----
+TG Desk
+- Sistema avançado de atendimento ao cliente e CRM.
+- Chatbot inteligente integrado com GPT-4 e Claude API
+- Rastreamento completo do customer journey
+- Automação de processos de suporte técnico
 
-### 🛠️ Minha Stack & Expertise
-* **Direção Técnica:** Arquitetura Full Stack (Python/FastAPI + React/Next.js).
-* **Engenharia:** Projetos elétricos, automação residencial e industrial, instalação, monitoramento e otimização de sistemas fotovoltaicos.
-* **Design & UX:** Estratégia digital e interfaces modernas.
+TG Digital Web
+- Plataforma institucional de alta performance.
+- Sistema de partículas interativo com física de repulsão
+- Otimizado para Core Web Vitals e acessibilidade
+- Performance-first development com Canvas API
 
----
 
-### 📊 Performance Técnica
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=erikbolzan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikbolzan&layout=compact&theme=dark&hide_progress=false" alt="Linguagens mais usadas" height="180">
-</p>
+STACK TÉCNICA
+- Direção Técnica: Arquitetura Full Stack Python/FastAPI e React/Next.js
 
----
+Engenharia Elétrica:
+- Projetos elétricos residenciais, comerciais e industriais
+- Automação e monitoramento de sistemas fotovoltaicos
+- Especialização em NBR 5410 e coordenação de proteção
 
-### 📫 Contato
-* **Empresa:** <a href="https://tgeletrica.com.br" target="_blank">TG Elétrica</a>
-* **Local:** Brasil 🇧🇷
+Desenvolvimento:
+- Backend: Python, FastAPI, PostgreSQL, Redis
+- Frontend: TypeScript, Next.js, React, Tailwind CSS
+- Infraestrutura: Docker, CI/CD, Event-Driven Architecture
 
-*"Liderando a inovação através de código limpo e design estratégico."*
+Design & UX:
+- Estratégia digital e interfaces modernas
+- Canvas API, WebGL, otimização de animações
+- Acessibilidade WCAG e experiência do usuário
+
+CONTATO
+Empresa: TG Elétrica
+Website: https://tgeletrica.com.br
+Localização: Brasil
