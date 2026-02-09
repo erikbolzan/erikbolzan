@@ -17,7 +17,7 @@ Atualmente lidero a arquitetura e execução dos seguintes projetos estratégico
 
 ### 🛠️ Minha Stack & Expertise
 * **Direção Técnica:** Arquitetura Full Stack (Python/FastAPI + React/Next.js).
-* **Engenharia:** Projetos elétricos e automação solar.
+* **Engenharia:** Projetos elétricos, automação residencial e industrial, instalação, monitoramento e otimização de sistemas fotovoltaicos.
 * **Design & UX:** Estratégia digital e interfaces modernas.
 
 ---
